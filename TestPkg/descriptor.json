@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "d0c9e2b4-13fa-48c9-89c7-bd721a2a9e3a",
+    "Name": "TestPkg",
+    "ModifiedOnUtc": "\/Date(1643111466000)\/",
+    "Maintainer": "Customer",
+    "Description": "Тестовый пакет для работы с Git",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      }
+    ]
+  }
+}
