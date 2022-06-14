@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "1097fc82-8c19-46ac-bab4-4ad8acb42ec8",
+    "Name": "Test2",
+    "ModifiedOnUtc": "\/Date(1643107856000)\/",
+    "Maintainer": "Customer",
+    "Description": "Test2",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      }
+    ]
+  }
+}
