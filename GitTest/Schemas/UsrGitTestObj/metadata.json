@@ -1,11 +1,11 @@
-= MetaData.Schema.UId "d1a8e1e0-d952-4000-b29e-319463b088aa"
-= MetaData.Schema.A2 "UsrTestLookup"
-= MetaData.Schema.A5 "d3668bcf-cb1c-42d9-a1dc-840a3e468d1c"
-= MetaData.Schema.B6 "d0c9e2b4-13fa-48c9-89c7-bd721a2a9e3a"
+= MetaData.Schema.UId "341e186b-c505-445d-8b98-5cfbc27a0fe5"
+= MetaData.Schema.A2 "UsrGitTestObj"
+= MetaData.Schema.A5 "80c691d3-ef4a-4f22-871f-c40100e8b825"
+= MetaData.Schema.B6 "c088f35b-11c5-4bf3-8d34-24f0302ca504"
 = MetaData.Schema.B8 "7.16.4.1731"
-= MetaData.Schema.EG1.UId "e021bd26-bac9-4a82-9f99-f85792016fd4"
-= MetaData.Schema.EG1.A2 "UsrTestLookupEventsProcess"
-= MetaData.Schema.EG1.A5 "d3668bcf-cb1c-42d9-a1dc-840a3e468d1c"
+= MetaData.Schema.EG1.UId "cc0e2080-78b7-4912-b94d-7db5d06b5ea2"
+= MetaData.Schema.EG1.A2 "UsrGitTestObjEventsProcess"
+= MetaData.Schema.EG1.A5 "80c691d3-ef4a-4f22-871f-c40100e8b825"
 + MetaData.Schema.EG1.B8 "7.16.4.1731"
 + MetaData.Schema.EG1.BK8 "e20c0489-122a-4242-999c-169e8e866fc1"
 = MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
@@ -40,24 +40,7 @@
 - MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16
 - MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16
 - MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16
-+ MetaData.Schema.D2 {
-  "UId": "a2984f14-5e09-4b0a-a77f-89919c661f9c",
-  "A2": "UsrName",
-  "A3": "d1a8e1e0-d952-4000-b29e-319463b088aa",
-  "A4": "d1a8e1e0-d952-4000-b29e-319463b088aa",
-  "A5": "d3668bcf-cb1c-42d9-a1dc-840a3e468d1c",
-  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
-}
-+ MetaData.Schema.D2 {
-  "UId": "30a32bf8-2850-491d-a5af-e85bb0c937d9",
-  "A2": "UsrSurname",
-  "A3": "d1a8e1e0-d952-4000-b29e-319463b088aa",
-  "A4": "d1a8e1e0-d952-4000-b29e-319463b088aa",
-  "A5": "d3668bcf-cb1c-42d9-a1dc-840a3e468d1c",
-  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
-}
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","736c30a7-c0ec-4fa9-b034-2552b319b633","9e53fd7c-dde4-4502-a64c-b9e34148108b","3fabd836-6a53-4d8d-9069-6df88d9dae1e","a2984f14-5e09-4b0a-a77f-89919c661f9c","30a32bf8-2850-491d-a5af-e85bb0c937d9"]
-= MetaData.Schema.D20.A2 "UsrTestLookupEvents"
+= MetaData.Schema.D20.A2 "UsrGitTestObjEvents"
 - MetaData.Schema.EG1.B6
 - MetaData.Schema.EG1.BK29
 - MetaData.Schema.EG1.BK30

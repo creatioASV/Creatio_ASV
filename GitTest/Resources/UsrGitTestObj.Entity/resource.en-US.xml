@@ -2,9 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Тестовый справочник" />
-			<Item Name="Columns.UsrName.Caption" Value="Имя" />
-			<Item Name="Columns.UsrSurname.Caption" Value="Фамилия" />
+			<Item Name="Caption" Value="Тестовый справочник для работы с git" />
 			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
 		</Items>
 	</Group>

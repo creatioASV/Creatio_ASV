@@ -1,8 +1,8 @@
 ﻿{
   "Descriptor": {
-    "UId": "5d648af8-38f5-4d9e-9a7a-91285627b43a",
-    "Name": "Usr_Test_obj",
-    "ModifiedOnUtc": "\/Date(1643108087000)\/",
+    "UId": "341e186b-c505-445d-8b98-5cfbc27a0fe5",
+    "Name": "UsrGitTestObj",
+    "ModifiedOnUtc": "\/Date(1643118594000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"
